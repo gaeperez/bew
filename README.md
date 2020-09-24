@@ -1,5 +1,5 @@
 # What is BEW?
-Biofilms Experiment Workbench (BEW) is a novel software workbench for the operation and analysis of Biofilms experimental data. BEW enables **full management and analysis of Experiments and Inter-Lab Experiments**.
+Biofilms Experiment Workbench (BEW) is a novel software workbench for the operation and analysis of Biofilms experimental data. This application is part of an end-of-degree project. BEW enables **full management and analysis of Experiments and Inter-Lab Experiments**.
 
 Users can perfom routine data management as well as data analysis namely:
 
